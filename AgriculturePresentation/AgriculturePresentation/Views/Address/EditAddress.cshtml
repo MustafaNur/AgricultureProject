@@ -1,0 +1,53 @@
+﻿@model EntityLayer.Concrete.Address
+@{
+    ViewData["Title"] = "EditAddress";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Address Güncelleme</h4>
+            <p class="card-description">
+                Bu sayfada adreslerinizi güncelleye bilirsiniz
+            </p>
+            <form method="post" class="forms-sample">
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AddressID)
+                    <label>Açıklama 1</label>
+                    <span asp-validation-for="Description1" class="text-danger"></span>
+                    <input type="text" class="form-control" placeholder="Açıklama 1" asp-for="Description1">
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AddressID)
+                    <label>Açıklama 2</label>
+                    <span asp-validation-for="Description2" class="text-danger"></span>
+                    <input type="text" class="form-control" placeholder="Açıklama 2" asp-for="Description2">
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AddressID)
+                    <label>Açıklama 3</label>
+                    <span asp-validation-for="Description3" class="text-danger"></span>
+                    <input type="text" class="form-control" placeholder="Açıklama 3" asp-for="Description3">
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AddressID)
+                    <label>Açıklama 4</label>
+                    <span asp-validation-for="Description4" class="text-danger"></span>
+                    <input type="text" class="form-control" placeholder="Açıklama 4" asp-for="Description4">
+                </div>
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AddressID)
+                    <label>Harita Konumu</label>
+                    <span asp-validation-for="Mapinfo" class="text-danger"></span>
+                    <input type="text" class="form-control" placeholder="Harita konumu" asp-for="Mapinfo">
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Kaydet</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
