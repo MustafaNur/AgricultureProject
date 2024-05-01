@@ -1,7 +1,8 @@
 # AgricultureProject
 
-Projede bir tarım sitesi olarak yapılmıştır. Tek bir sayfadan oluşan bir web sitesidir. Anasayfa da olan içerikler, slayder, hakkımızda, hizmetlerimiz, ekip arkadaşlarımız, son duyurular, galeri ve bize ulaşın kısımları yer almaktadır. 
+Bu proje, tarımsal faaliyetlere odaklanan tek sayfalık bir web sitesi geliştirmeyi içerir. Ana sayfa, "slayder", "Hakkımızda", "Hizmetlerimiz", "Ekip Arkadaşlarımız", "Son Duyurular", "Galeri" ve "Bize Ulaşın" gibi bölümlerden oluşmaktadır.
 
+**Yönetici Paneli:** Yöneticilere, içerikleri (CRUD işlemleri) ve takım arkadaşlarını ve hizmetleri ekleme, düzenleme ve silme gibi web sitesi işlevlerini yönetmek için bir yönetici paneli sunulmuştur.
 
 # Kullanılan teknolijiler
 - Clean Code prensipleri
