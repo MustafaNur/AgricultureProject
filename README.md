@@ -14,6 +14,6 @@ Projede bir tarım sitesi olarak yapılmıştır. Tek bir sayfadan oluşan bir w
 - Authorize
 - Identity
 
-Proje görselleri için [tıklayınız]([https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_6.png](https://github.com/MustafaNur/AgricultureProject/tree/main/AgriculturePresentation/Proje%20g%C3%B6rselleri))
+Proje görselleri için [tıklayınız](https://github.com/MustafaNur/AgricultureProject/blob/main/AgriculturePresentation/Proje%20g%C3%B6rselleri/AnaSayfa.png)
 
-![Referans bir isim]([https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_6.png](https://github.com/MustafaNur/AgricultureProject/blob/main/AgriculturePresentation/Proje%20g%C3%B6rselleri/AnaSayfa.png))
+![Referans bir isim](https://github.com/MustafaNur/AgricultureProject/blob/main/AgriculturePresentation/Proje%20g%C3%B6rselleri/AnaSayfa.png)
