@@ -15,6 +15,6 @@ Bu proje, tarımsal faaliyetlere odaklanan tek sayfalık bir web sitesi gelişti
 - Authorize
 - Identity
 
-Proje görselleri için [tıklayınız](https://github.com/MustafaNur/AgricultureProject/blob/main/AgriculturePresentation/Proje%20g%C3%B6rselleri/AnaSayfa.png)
+Proje görselleri için [tıklayınız](https://github.com/MustafaNur/AgricultureProject/tree/main/AgriculturePresentation/Proje%20g%C3%B6rselleri)
 
 ![Referans bir isim](https://github.com/MustafaNur/AgricultureProject/blob/main/AgriculturePresentation/Proje%20g%C3%B6rselleri/AnaSayfa.png)
